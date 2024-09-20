@@ -1,13 +1,3 @@
-## nput data and prefix ##
-fq1: 'f1.fq.gz'
-fq2:  'f2.fq.gz'
-SAMPLEID: 'test'
-outdir: 'results_align'
-
-## Reference results ##
-RSEMINDEX: '/data/projects/RDconnect/analysis/alignmnent_quant/indexes/indexes'
-STARINDEX: '/data/projects/RDconnect/analysis/alignmnent_quant/indexes'
-ref: '/data/resources/fasta/hg19/h37d5/hsapiens.hs37d5.fasta'
-ref_fai: '/data/resources/fasta/hg19/h37d5/hsapiens.hs37d5.fasta.fai'
-ref_dict: '/data/resources/fasta/hg19/h37d5/hsapiens.hs37d5.dict'
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf6ef671c8c5e6c934d3fbeb85f4427ac472993a8606e9a48dd8aa4ba676f2f0
+size 477

@@ -1,25 +1,3 @@
-## Input data and prefix ##
-bam: "tmp.bam"
-bai: "tmp.bai"
-outdir : "results"
-SAMPLEID: "SampleID"
-RGLB: 'library'
-RGPL: 'platform'
-RGPU: 'machine'
-
-## Overall reference resources
-ref: "/data/resources/fasta/hg19/h37d5/hsapiens.hs37d5.fasta"
-ref_fai: "/data/resources/fasta/hg19/h37d5/hsapiens.hs37d5.fasta.fai"
-ref_dict: "/data/resources/fasta/hg19/h37d5/hsapiens.hs37d5.dict"
-DBSNP: "/home/mbosio/software/GATK/GATK_3.6.0/resources/dbsnp_138.hg19.snps.vcf"
-DBINDEL: "/home/mbosio/software/GATK/GATK_3.6.0/resources/dbsnp_138.hg19.indels.vcf"
-
-## paths to agents
-GATK: "/home/mbosio/software/GATK/GATK_3.6.0/GenomeAnalysisTK.jar"
-GATK: "/usr/GenomeAnalysisTK.jar"
-PICARD: "/home/mbosio/software/Picard/picard.jar"
-PICARD: "/usr/picard/picard.jar"
-# Path to SmartRNASeqCaller
-# code_path: "/home/mbosio/projects/RD_connect_rnaseq/"
-code_path: "/opt/RD_connect_rnaseq/"
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c1e94e67683a528ff21af5cf6927c9bdab33b48fea08520c01546e951bfa05
+size 869
